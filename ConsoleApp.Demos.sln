@@ -1,13 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.OutputDemo", "ConsoleApp.OutputDemo\ConsoleApp.OutputDemo.csproj", "{A829A244-564E-48ED-A3D8-AE8BA375022E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.VAriablesDemo", "ConsoleApp.VAriablesDemo\ConsoleApp.VAriablesDemo.csproj", "{D1DFF5A9-334D-45D0-B763-B6BBEC31E02A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.UserInputDemo", "ConsoleApp.UserInputDemo\ConsoleApp.UserInputDemo.csproj", "{CEAA8183-46B0-4F77-A2AE-48351FA1EFD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionsAndDecisions", "ConditionsAndDecisions\ConditionsAndDecisions.csproj", "{E997428E-EE34-4AED-B5FC-D1EE4370B947}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.SampleCalculator", "ConsoleApp.SampleCalculator\ConsoleApp.SampleCalculator.csproj", "{F2DF8F5F-56A4-44D0-A33C-FAA1DEC2974F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{CEAA8183-46B0-4F77-A2AE-48351FA1EFD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEAA8183-46B0-4F77-A2AE-48351FA1EFD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEAA8183-46B0-4F77-A2AE-48351FA1EFD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E997428E-EE34-4AED-B5FC-D1EE4370B947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E997428E-EE34-4AED-B5FC-D1EE4370B947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E997428E-EE34-4AED-B5FC-D1EE4370B947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E997428E-EE34-4AED-B5FC-D1EE4370B947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2DF8F5F-56A4-44D0-A33C-FAA1DEC2974F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2DF8F5F-56A4-44D0-A33C-FAA1DEC2974F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2DF8F5F-56A4-44D0-A33C-FAA1DEC2974F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2DF8F5F-56A4-44D0-A33C-FAA1DEC2974F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
