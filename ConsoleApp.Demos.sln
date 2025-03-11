@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionsAndDecisions", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.SampleCalculator", "ConsoleApp.SampleCalculator\ConsoleApp.SampleCalculator.csproj", "{F2DF8F5F-56A4-44D0-A33C-FAA1DEC2974F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.loop", "ConsoleApp.loop\ConsoleApp.loop.csproj", "{F6759E9F-44CF-454C-99E2-602970CDF62C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F2DF8F5F-56A4-44D0-A33C-FAA1DEC2974F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2DF8F5F-56A4-44D0-A33C-FAA1DEC2974F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2DF8F5F-56A4-44D0-A33C-FAA1DEC2974F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6759E9F-44CF-454C-99E2-602970CDF62C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6759E9F-44CF-454C-99E2-602970CDF62C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6759E9F-44CF-454C-99E2-602970CDF62C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6759E9F-44CF-454C-99E2-602970CDF62C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
